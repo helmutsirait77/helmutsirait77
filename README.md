@@ -15,3 +15,6 @@
 
 ##### Connect with Me
 [Facebook](https://facebook.com/helmutsirait77) | [Twitter](https://x.com/helmutsirait77) | [Instagram](https://instagram.com/helmutsirait77)
+
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
