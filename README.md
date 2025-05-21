@@ -17,4 +17,8 @@
 [Facebook](https://facebook.com/helmutsirait77) | [Twitter](https://x.com/helmutsirait77) | [Instagram](https://instagram.com/helmutsirait77)
 
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
