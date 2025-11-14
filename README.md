@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'am Helmut Sirait 🤞
 
 <!--
 **helmutsirait77/helmutsirait77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on [https://www.w3schools.com/](https://www.w3schools.com/)
+- 🌱 I’m currently learning **HTML, CSS, JavaScript**
+
+![Programming](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnkxbTJjNDlocWhscXEwNXpra3JmZnZodTFrbXQ3eXdzeTJ6MW81cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
+
+
