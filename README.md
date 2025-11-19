@@ -1,22 +1,22 @@
 ![Helmut Sirait](img/github-header-banner.png)
 ##### 👩‍💻 Languages
 
-![Language](https://skillicons.dev/icons?i=html,css,js,php&theme=dark)
+![HTML5](img/html-5.png) ![CSS3](img/css-3.png) ![JS](img/js.png) ![JS](img/php.png)
 
 ##### 🖍 Design
-![Design](https://skillicons.dev/icons?i=photoshop,figma&theme=dark)
+![Photosop](img/photoshop.png) ![Figma](img/figma.png)
 
 ##### ⚡ Database
-![Database](https://skillicons.dev/icons?i=mysql&theme=dark)
+![mysql](img/mysql.png)
 
 ##### 🚀 Framework and  Library
-![Framework & Library](https://skillicons.dev/icons?i=bootstrap,jquery,react,tailwind,laravel&theme=dark)
+![Bootstrap](img/bootstrap.png) ![React](img/react.png)
 
 ##### 👩‍💻 IDE
 ![IDE](https://skillicons.dev/icons?i=vscode,sublime&theme=dark)
 
 ##### 👨 Contact
-[![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/helmutsirait) [![gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](helmutsirait77@gmail.com) [![gmail](https://skillicons.dev/icons?i=github&theme=dark)]([helmutsirait77@gmail.com](https://github.com/helmutsirait77))
+[![Facebook](img/facebook.png)](https://www.facebook.com/helmutsirait) [![Instagram](img/instagram.png)](https://www.instagram.com/helmutsirait) [![x](img/twitter.png)](https://www.instagram.com/helmutsirait) 
 
 #####  🌐 Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=helmutsirait77&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
